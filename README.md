@@ -5,6 +5,7 @@ Reference repository: [degust](https://github.com/drpowell/degust)
 `python degust.py --help`
 
 Running this command displays all the available arguments for `degust.py`:
+
 | positional arguments: |                                     |
 | --------------------- | ----------------------------------- |
 | csvfile               | CSV file to process (default stdin) |
