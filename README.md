@@ -9,6 +9,8 @@ Running this command displays all the available arguments for `degust.py`:
 | --------------------- | ----------------------------------- |
 | csvfile               | CSV file to process (default stdin) |
 
+---
+
 | optional arguments: |                                                                                                           |
 | ------------------- | --------------------------------------------------------------------------------------------------------- |
 | -h, --help          | show this help message and exit                                                                           |
